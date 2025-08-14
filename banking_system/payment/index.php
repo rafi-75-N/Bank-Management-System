@@ -1,0 +1,1 @@
+<?php header('Location: /banking_system/payment/list.php');
