@@ -1,0 +1,1 @@
+<?php header("Location: /bank-management-system/payment/list.php"); exit; ?>

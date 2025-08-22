@@ -1,0 +1,1 @@
+<?php header("Location: /bank-management-system/employee/list.php"); exit; ?>

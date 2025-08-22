@@ -1,0 +1,1 @@
+<?php header("Location: /bank-management-system/branch/list.php"); exit; ?>
